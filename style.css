@@ -1,14 +1,14 @@
 .exterior{
   box-sizing: border-box;
-  height: 1600px;
-  width: 1600px;
+  height: 960px;
+  width: 960px;
 }
 
 .interior{
   box-sizing: border-box;
   border: 1px solid black;
-  width: 100px;
-  height: 100px;
+  width: 96px;
+  height: 96px;
   display: inline-block;
   margin-top: 0px;
   margin-bottom: 0px;
